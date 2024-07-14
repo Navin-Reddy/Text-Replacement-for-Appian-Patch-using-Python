@@ -33,12 +33,6 @@ This script is designed to modify files within an "Appian Patch" directory conta
    cd <repository-name>
    ```
 
-2. Install dependencies if needed:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ### Run
 
 1. Execute the script:

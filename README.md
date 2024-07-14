@@ -56,4 +56,5 @@ This script is designed to modify files within an "Appian Patch" directory conta
 
 ## Contributors
 
-- Prasanna
+- https://github.com/prasannaKumarLS
+- https://github.com/Navin-Reddy
